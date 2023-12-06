@@ -2,7 +2,7 @@ package hsnr;
 
 public class Auto { 
 	int baujahr; 
-	String kennzeichen;
+	int kennzeichen;
 	Hersteller hersteller; 
  
 }
