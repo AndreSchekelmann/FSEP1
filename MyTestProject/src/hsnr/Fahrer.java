@@ -8,6 +8,7 @@ public class Fahrer {
 
 	String remote;
 	
+	String lokal;
 	
 
 }
