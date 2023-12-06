@@ -4,5 +4,5 @@ public class Auto {
 	
 	String kennzeichen;
 	int laenge;
-	String farbe;
+	String farbe; 
 }
