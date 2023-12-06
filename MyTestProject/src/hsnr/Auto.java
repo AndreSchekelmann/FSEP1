@@ -5,5 +5,5 @@ public class Auto {
 	int kennzeichen; 
 	Hersteller hersteller; 
 	String farbe;
- 
+
 }
