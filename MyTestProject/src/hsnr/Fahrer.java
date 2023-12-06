@@ -5,5 +5,5 @@ public class Fahrer {
 	String name;
 	String vorname;
 	int groesse;
-
+	String vorname;
 }
