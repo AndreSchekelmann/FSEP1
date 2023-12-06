@@ -6,4 +6,6 @@ public class Fahrer {
 	String vorname;
 	int groesse; 
 
+	String remote;
+
 }
