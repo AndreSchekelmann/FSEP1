@@ -1,6 +1,7 @@
 package hsnr;
 
 public class Auto { 
-	int baujahr;
+	int baujahr; 
+	String farbe;
 
 }
