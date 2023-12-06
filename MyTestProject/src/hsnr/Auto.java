@@ -6,4 +6,5 @@ public class Auto {
 	int laenge;
 	int breite
 	String farbe; 
+	int hoehe;
 }
