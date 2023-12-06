@@ -1,5 +1,6 @@
 package hsnr;
 
-public class Auto {
+public class Auto { 
+	int baujahr;
 
 }
