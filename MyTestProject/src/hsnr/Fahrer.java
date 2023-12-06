@@ -4,7 +4,7 @@ public class Fahrer {
 	
 	String name; 
 	String vorname;
-	int alter;
+	int alter; 
 	int groesse; 
 
 }
